@@ -1,0 +1,51 @@
+h1{
+    font-size: 350%;
+    border-left: salmon solid;
+}
+.heading-color{
+    color: steelblue;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, steelblue);
+    padding: 10px 40px;
+    border-radius: 5%;
+    color: white;
+}
+.flexing{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 70%;
+}
+.center{
+    text-align: center;
+    font-size: 40px;
+}
+.mission-color{
+    color: steelblue;
+}
+.year-color{
+    color: midnightblue;
+}
+.illustrator{
+    width: 20%;
+    padding: 5%;
+    margin: 2%;
+}
+.illustrator img{
+    width: 50%;
+}
+.color-bga{
+    background-color: mistyrose;
+}
+.color-bgb{
+    background-color: navajowhite;
+}
+.color-bg{
+    background-color: lightsteelblue;
+}
