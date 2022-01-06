@@ -20,7 +20,7 @@ h1{
     padding: 5%;
 }
 .half-width img{
-    width: 70%;
+    width: 80%;
 }
 .center{
     text-align: center;
@@ -42,16 +42,25 @@ h1{
 }
 .color-bga{
     background-color: mistyrose;
+    border-radius: 10%;
 }
 .color-bgb{
     background-color: navajowhite;
+    border-radius: 10%;
 }
 .color-bg{
     background-color: lightsteelblue;
+    border-radius: 10%;
 }
 .back-ground{
     background-image: url(image/shape-1.png);
     background-size: 40%;
     background-repeat: no-repeat;
     background-position: left;
+}
+.background{
+    background-image: url(image/shape-1.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: right bottom;
 }
