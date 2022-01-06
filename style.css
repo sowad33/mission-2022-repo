@@ -1,13 +1,13 @@
 h1{
     font-size: 350%;
-    border-left: salmon solid;
+    border-left: darkslateblue solid;
 }
 .heading-color{
     color: steelblue;
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(blue, steelblue);
+    background-image: linear-gradient( midnightblue, steelblue);
     padding: 10px 40px;
     border-radius: 5%;
     color: white;
@@ -20,7 +20,7 @@ h1{
     padding: 5%;
 }
 .half-width img{
-    width: 80%;
+    width: 50%;
 }
 .center{
     text-align: center;
@@ -35,7 +35,7 @@ h1{
 .illustrator{
     width: 20%;
     padding: 5%;
-    margin: 2%;
+    margin: 1%;
 }
 .illustrator img{
     width: 50%;
@@ -54,15 +54,16 @@ h1{
 }
 .back-ground{
     background-image: url(image/shape-1.png);
-    background-size: 40%;
+    background-size: 30%;
     background-repeat: no-repeat;
     background-position: left;
+    padding-left: 20%;
 }
 .background{
     background-image: url(image/shape-1.png);
-    background-size: 40%;
+    background-size: 30%;
     background-repeat: no-repeat;
-    background-position: right bottom;
+    background-position: bottom;
 }
 .corona-color{
     color: darkcyan;
@@ -73,7 +74,20 @@ h1{
 }
 .back-image{
     background-image: url(image/shape-3.png), url(image/shape-6.png), url(image/shape-7.png);
-    background-size: 40%;
+    background-size: 30%;
     background-repeat: no-repeat, no-repeat, no-repeat;
-    background-position: top left, right, bottom left;
+    background-position: top left, center, bottom left;
+}
+.padd{
+    padding-left: 10%;
+}
+.footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 10px 40px;
+    margin-top: 5%;
+}
+.number-color{
+    color: steelblue;
 }
