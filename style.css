@@ -49,3 +49,9 @@ h1{
 .color-bg{
     background-color: lightsteelblue;
 }
+.back-ground{
+    background-image: url(image/shape-1.png);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: left;
+}
