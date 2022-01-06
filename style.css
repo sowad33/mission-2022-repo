@@ -64,3 +64,16 @@ h1{
     background-repeat: no-repeat;
     background-position: right bottom;
 }
+.corona-color{
+    color: darkcyan;
+}
+.corona-font{
+    text-align: center;
+    font-size: 250%;
+}
+.back-image{
+    background-image: url(image/shape-3.png), url(image/shape-6.png), url(image/shape-7.png);
+    background-size: 40%;
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: top left, right, bottom left;
+}
